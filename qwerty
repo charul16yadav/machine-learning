@@ -1,0 +1,53 @@
+identifier
+keyword
+operator
+    1 arithmatic
+    2 relational: ==,!=,>,<,,>=,<=
+    3 assignment: =,+=,-=,*=
+    4 logical:
+    5 membership:in,not in
+    6 bitwise: &,|,
+    7 identity is, is not
+
+ Datatypes/Dataclasses
+     1 numeric
+     2 sequence
+        str
+        list
+        tuple
+     3 empty data: none
+     4 mapping:dictionary:structured collection of key-value pair
+     5 boolean  
+Data operation
+     1 item accessing
+     2 item insertion
+     3 item assignment
+     4 item deletion
+applicable to string list tupple
+item assignment / item deletion 
+     str=not allow
+     list=allow
+     tupple = not
+     set = allow
+Datatype build in function
+     str:upper,lower,find,split,strip,join,format,count,
+     list: append,sort,count,copy,insert,remove,index,pop
+     tuple: count,indexdic: keys,values,update,get,pop
+     set: add,diff,union,pop, remove
+
+ deep copy vs shallow copy    
+
+
+1. Conditional
+2. loops ,
+3 error: try-except-else-finally    
+4 function    user defined function   
+5 classes , library    
+6 library   
+np.arange(11)
+  uint8 -64
+  int8-64
+  a.sum(axis=1)
+a.mean
+a.max
+a.argmax[axis=1]

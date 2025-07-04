@@ -1,0 +1,8 @@
+its new file new data
+here we go with new 
+rows,cols, = img.shape
+M = cv2.getRotationMatrix2D((cols/2, rows/2) 90,1)
+dst = cv2.warpAffine(img, M,(cols,rows))
+from skimage.transform import rotate
+image = 
+showing(img2_5)
